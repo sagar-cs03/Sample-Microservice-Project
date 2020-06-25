@@ -1,0 +1,7 @@
+comments-service/node_modules/*
+posts-service/node_modules/*
+event-bus/node_modules/*
+moderation-service/node_modules/*
+posts-with-comments-service/node_modules/*
+web-client/*
+
