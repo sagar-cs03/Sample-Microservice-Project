@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: posts-service
+spec:
+  containers:
+    - name: posts-service
+      image: sagarcs/posts-service:0.0.1
